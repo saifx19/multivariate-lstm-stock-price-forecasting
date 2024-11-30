@@ -48,4 +48,4 @@ Explore different architectures by adding more LSTM layers or adjusting the numb
 
 ## Deployment
 
-The model was deployed through a microservice API on Microsoft Azure Cloud, allowing for real-time stock price prediction, and it has been updated in a separate [repository](https://github.com/saifx19/stock-price-prediction-api).
+The model was deployed through a microservice API, allowing for real-time stock price prediction, and it has been updated in a separate [repository](https://github.com/saifx19/stock-price-prediction-api).
